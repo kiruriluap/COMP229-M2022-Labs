@@ -1,0 +1,5 @@
+//IIFE --
+// AKA -
+
+(function()
+{}
